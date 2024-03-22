@@ -1,2 +1,2 @@
-# RNN_Previs-o_de_Demanda
+# RNN Previsão de Demanda
 RNN - Séries Temporais com LSTM
